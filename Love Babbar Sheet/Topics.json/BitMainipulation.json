@@ -1,0 +1,154 @@
+{
+    "questions": [
+        {
+            "_id": "647a06c14e883b02cff3fcd7",
+            "title": "Power Set",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/power-set4302/1",
+                ""
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06c14e883b02cff3fcd2",
+            "title": "Program to find whether a no is power of two",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/power-of-2/0",
+                "https://www.codingninjas.com/codestudio/problems/power-of-two_893061?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06c14e883b02cff3fccf",
+            "title": "Find the two non-repeating elements in an array of repeating elements",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
+                "https://www.codingninjas.com/codestudio/problems/unique-pair-using-bits_972997?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06c14e883b02cff3fcd3",
+            "title": "Find position of the only set bit",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
+                "https://www.codingninjas.com/codestudio/problems/find-the-lone-set-bit_1062725?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06c14e883b02cff3fcce",
+            "title": "Count set bits in an integer",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/set-bits0143/1",
+                "https://www.codingninjas.com/codestudio/problems/set-bits_1164179?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06c14e883b02cff3fcd1",
+            "title": "Count total set bits in all numbers from 1 to n",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0",
+                "https://www.codingninjas.com/codestudio/problems/count-set-bits_1112627?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06c14e883b02cff3fcd6",
+            "title": "Calculate square of a number without using *, / and pow()",
+            "links": [
+                "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/",
+                "https://www.codingninjas.com/codestudio/problems/calculate-square-of-a-number_1112623?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06c14e883b02cff3fcd0",
+            "title": "Count number of bits to be flipped to convert A to B",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/bit-difference/0",
+                "https://www.codingninjas.com/codestudio/problems/number-of-flips_3125902?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06c14e883b02cff3fcd4",
+            "title": "Copy set bits in a range",
+            "links": [
+                "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/",
+                "https://www.codingninjas.com/codestudio/problems/copy-bits-in-range_3150011?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06c14e883b02cff3fcd5",
+            "title": "Divide two integers without using multiplication, division and mod operator",
+            "links": [
+                "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/",
+                "https://www.codingninjas.com/codestudio/problems/divide-two-integers_1112617?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06994e883b02cff3fccb"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

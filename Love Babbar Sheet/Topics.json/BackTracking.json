@@ -1,0 +1,289 @@
+{
+    "questions": [
+        {
+            "_id": "647a05364e883b02cff3fbff",
+            "title": "The Knight’s tour problem",
+            "links": [
+                "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/",
+                "https://www.codingninjas.com/codestudio/problems/knight-tour_1170518?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fbfe",
+            "title": "Subset Sum Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+                "https://www.codingninjas.com/codestudio/problems/partition-equal-subset-sum_892980?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc07",
+            "title": "Print all possible paths from top left to bottom right of a mXn matrix",
+            "links": [
+                "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/",
+                "https://www.codingninjas.com/codestudio/problems/print-all-possible-paths-from-top-left-corner-to-bottom-right-corner-of-a-2-d-matrix_1171152?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc03",
+            "title": "Find Maximum number possible by doing at-most K swaps",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0",
+                "https://www.codingninjas.com/codestudio/problems/find-maximum-number-possible-by-doing-at-most-k-swaps_1169469?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fbfd",
+            "title": "Print all palindromic partitions of a string",
+            "links": [
+                "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/",
+                "https://www.codingninjas.com/codestudio/problems/palindrome-partitions_981290?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fbfa",
+            "title": "Remove Invalid Parentheses",
+            "links": [
+                "https://leetcode.com/problems/remove-invalid-parentheses/",
+                "https://www.codingninjas.com/codestudio/problems/generate-all-valid-strings_1170524?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fbf8",
+            "title": "Printing all solutions in N-Queen Problem",
+            "links": [
+                "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/",
+                "https://www.codingninjas.com/codestudio/problems/the-n-queens-puzzle_981286?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc01",
+            "title": "Find shortest safe route in a path with landmines",
+            "links": [
+                "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
+                "https://www.codingninjas.com/codestudio/problems/shortest-safe-route-in-a-field-with-landmines_1164264?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc04",
+            "title": "Print all permutations of a string ",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+                ""
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc02",
+            "title": "Combinational Sum",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/combination-sum/0",
+                "https://www.codingninjas.com/codestudio/problems/combination-sum_981296?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fbf9",
+            "title": "Word Break Problem using Backtracking",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/word-break-part-2/0",
+                "https://www.codingninjas.com/codestudio/problems/word-break-ii_983635?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc05",
+            "title": "Find if there is a path of more than k length from a source",
+            "links": [
+                "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+                "https://www.codingninjas.com/codestudio/problems/find-if-there-is-a-path-of-more-than-k-length-from-a-source_1229512?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc09",
+            "title": "Find the K-th Permutation Sequence of first N natural numbers",
+            "links": [
+                "https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/",
+                "https://www.codingninjas.com/codestudio/problems/k-th-permutation-sequence-of-first-n-natural-numbers_1164403?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc00",
+            "title": "Tug of War",
+            "links": [
+                "https://www.geeksforgeeks.org/tug-of-war/",
+                "https://www.codingninjas.com/codestudio/problems/tug-of-war_985253?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc08",
+            "title": "Partition of a set intoK subsets with equal sum",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
+                "https://www.codingninjas.com/codestudio/problems/partition-to-k-equal-sum-subsets_843262?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fc06",
+            "title": "Longest Possible Route in a Matrix with Hurdles",
+            "links": [
+                "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
+                "https://www.codingninjas.com/codestudio/problems/longest-route_1170525?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fbf7",
+            "title": "Rat in a maze Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+                "https://www.codingninjas.com/codestudio/problems/rat-in-a-maze_1215030?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fbfc",
+            "title": "m Coloring Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+                "https://www.codingninjas.com/codestudio/problems/m-coloring-problem_981273?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05364e883b02cff3fbfb",
+            "title": "Sudoku Solver",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0",
+                "https://www.codingninjas.com/codestudio/problems/sudoku-solver_699919?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a051a4e883b02cff3fbf4"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

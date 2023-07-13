@@ -1,0 +1,365 @@
+{
+    "questions": [
+        {
+            "_id": "647a284caa1049cda4dac8ad",
+            "title": "4-Sum Problem",
+            "links": [
+                "https://bit.ly/3qpfEsj",
+                "https://leetcode.com/problems/4sum/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a0",
+            "title": "Rotate Matrix",
+            "links": [
+                "https://bit.ly/3rhVUWx",
+                "https://leetcode.com/problems/rotate-image/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a8",
+            "title": "Majority Element (>n/2 times)",
+            "links": [
+                "https://bit.ly/3FpfpBQ",
+                "https://leetcode.com/problems/majority-element/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac89b",
+            "title": "Pascal's Triangle",
+            "links": [
+                "https://bit.ly/3rhv153",
+                "https://leetcode.com/problems/pascals-triangle/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a5",
+            "title": "Inversion of Array (Pre-req: Merge Sort)",
+            "links": [
+                "https://bit.ly/339fFb7",
+                "https://www.codingninjas.com/codestudio/problems/count-inversions_615"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac89e",
+            "title": "Sort an array of 0's, 1's and 2's",
+            "links": [
+                "https://bit.ly/3tlM60B",
+                "https://leetcode.com/problems/sort-colors/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a6",
+            "title": "Search in a 2 D matrix",
+            "links": [
+                "https://bit.ly/3GD7NNa",
+                "https://leetcode.com/problems/search-a-2d-matrix/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a2",
+            "title": "Merge two sorted arrays without extra space",
+            "links": [
+                "https://bit.ly/33umm7e",
+                "https://leetcode.com/problems/merge-sorted-array/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac89f",
+            "title": "Stock Buy and Sell",
+            "links": [
+                "https://bit.ly/3GsANaD",
+                "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8aa",
+            "title": "Grid Unique Paths",
+            "links": [
+                "https://bit.ly/3fm1dyN",
+                "https://leetcode.com/problems/unique-paths/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8b0",
+            "title": "Count number of subarrays with given xor K",
+            "links": [
+                "https://bit.ly/3fp24yN",
+                "https://www.interviewbit.com/problems/subarray-with-given-xor/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8b1",
+            "title": "Longest Substring without repeat",
+            "links": [
+                "https://bit.ly/3no44fb",
+                "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8ab",
+            "title": "Reverse Pairs (Leetcode)",
+            "links": [
+                "https://bit.ly/3tm5PgF",
+                "https://leetcode.com/problems/reverse-pairs/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8ae",
+            "title": "Longest Consecutive Sequence",
+            "links": [
+                "https://bit.ly/34EoAS0",
+                "https://leetcode.com/problems/longest-consecutive-sequence/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac89c",
+            "title": "Next Permutation",
+            "links": [
+                "https://bit.ly/3qoj5iQ",
+                "https://leetcode.com/problems/next-permutation/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a1",
+            "title": "Merge Overlapping Subintervals",
+            "links": [
+                "https://bit.ly/3rj9LvO",
+                "https://leetcode.com/problems/merge-intervals/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac89d",
+            "title": "Kadane's Algorithm",
+            "links": [
+                "https://bit.ly/3HZltTa",
+                "https://leetcode.com/problems/maximum-subarray/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac89a",
+            "title": "Set Matrix Zeros",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/set-matrix-zeros_3846774?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://leetcode.com/problems/set-matrix-zeroes/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": true,
+            "completedAt": "2023-07-04T05:40:54.748Z",
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8af",
+            "title": "Largest Subarray with K sum",
+            "links": [
+                "https://bit.ly/31UHoeM",
+                "https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a4",
+            "title": "Repeat and Missing Number",
+            "links": [
+                "https://bit.ly/3Gs6wZu",
+                "https://www.interviewbit.com/problems/repeat-and-missing-number-array/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a7",
+            "title": "Pow(x, n)",
+            "links": [
+                "https://bit.ly/3Gtjwhl",
+                "https://leetcode.com/problems/powx-n/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a3",
+            "title": "Find the duplicate in an array of N+1 integers",
+            "links": [
+                "https://bit.ly/3GtKDJb",
+                "https://leetcode.com/problems/find-the-duplicate-number/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8a9",
+            "title": "Majority Element (n/3 times)",
+            "links": [
+                "https://bit.ly/3foYLYp",
+                "https://leetcode.com/problems/majority-element-ii/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a284caa1049cda4dac8ac",
+            "title": "2Sum Problem",
+            "links": [
+                "https://bit.ly/3riXBmz",
+                "https://leetcode.com/problems/two-sum/"
+            ],
+            "topicId": [
+                "647a2608aa1049cda4dac7ea"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

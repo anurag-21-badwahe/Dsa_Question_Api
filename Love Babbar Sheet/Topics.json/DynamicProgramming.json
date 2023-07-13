@@ -1,0 +1,904 @@
+{
+    "questions": [
+        {
+            "_id": "647a06834e883b02cff3fca9",
+            "title": "Minimum number of jumps to reach end",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+                "https://www.codingninjas.com/codestudio/problems/jump-game_893178?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc95",
+            "title": "Friends Pairing Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1",
+                "https://www.codingninjas.com/codestudio/problems/friends-pairing-problem_1214625?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc98",
+            "title": "Painting the Fenceproblem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1",
+                "https://www.codingninjas.com/codestudio/problems/ninja-and-the-fence_3210208?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fca1",
+            "title": "Longest subsequence such that difference between adjacent is one",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1",
+                "https://www.codingninjas.com/codestudio/problems/longest-subsequence-with-difference-one_1214549?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcc3",
+            "title": "Largest rectangular sub-matrix whose sum is 0",
+            "links": [
+                "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/",
+                "https://www.codingninjas.com/codestudio/problems/sub-matrix-with-sum-zero_1063254?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fca7",
+            "title": "Min Cost PathProblem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
+                "https://www.codingninjas.com/codestudio/problems/min-cost-path_842565?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc91",
+            "title": "Program for nth Catalan Number",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1/",
+                "https://www.codingninjas.com/codestudio/problems/catalan-number_893076?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc8d",
+            "title": "Coin ChangeProblem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/coin-change2448/1",
+                "https://www.codingninjas.com/codestudio/problems/ways-to-make-coin-change_630471?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc93",
+            "title": "Edit Distance",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+                "https://www.codingninjas.com/codestudio/problems/edit-distance_630420?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc8f",
+            "title": "Binomial CoefficientProblem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/ncr1019/1",
+                "https://www.codingninjas.com/codestudio/problems/binomial-coefficient-problem_1229410?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc92",
+            "title": "Matrix Chain Multiplication ",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/",
+                "https://www.codingninjas.com/codestudio/problems/matrix-chain-multiplication_975344?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fca2",
+            "title": "Maximum subsequence sum such that no three are consecutive",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/max-sum-without-adjacents-2/1",
+                "https://www.codingninjas.com/codestudio/problems/maximum-subsequence-sum-such-that-no-three-are-consecutive_1215007?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc9a",
+            "title": "Longest Common Subsequence",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcbe",
+            "title": "Optimal Binary Search Tree",
+            "links": [
+                "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
+                "https://www.codingninjas.com/codestudio/problems/minimum-cost-bst_3210619?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcc4",
+            "title": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
+            "links": [
+                "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
+                "https://www.codingninjas.com/codestudio/problems/largest-sub-matrix-with-equal-0-s-and-1-s_3210616?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb2",
+            "title": "Word Break Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/word-break/0",
+                "https://www.codingninjas.com/codestudio/problems/ninja-the-exam-instructor_1215010?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcc6",
+            "title": "Maximum profit by buying and selling a share at most k times",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/maximum-profit4657/1",
+                "https://www.codingninjas.com/codestudio/problems/best-time-to-buy-and-sell-stock_1080698?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcc7",
+            "title": "Find if a string is interleaved of two other strings",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
+                "https://www.codingninjas.com/codestudio/problems/interleaving-two-strings_1062567?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc94",
+            "title": "Subset Sum Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcaa",
+            "title": "Minimum cost to fill given weight in a bag",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1",
+                "https://www.codingninjas.com/codestudio/problems/minimum-cost-to-buy-rice_3210212?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcc5",
+            "title": "Maximum sum rectangle in a 2D matrix",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0",
+                "https://www.codingninjas.com/codestudio/problems/maximum-sum-rectangle_875115?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fca5",
+            "title": "Maximum size square sub-matrix with all 1s",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0",
+                "https://www.codingninjas.com/codestudio/problems/maximum-area-square_981268?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc9c",
+            "title": "Longest Increasing Subsequence",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0",
+                "https://www.codingninjas.com/codestudio/problems/longest-increasing-subsequence_630459?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fca6",
+            "title": "Maximum sum of pairs with specific difference",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0",
+                "https://www.codingninjas.com/codestudio/problems/maximum-sum-of-pairs-with-specific-difference_1230548?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcbf",
+            "title": "Palindrome PartitioningProblem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+                "https://www.codingninjas.com/codestudio/problems/palindromic-partitioning_1063252?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb4",
+            "title": "Partition problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+                "https://www.codingninjas.com/codestudio/problems/partition_1172151?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcbd",
+            "title": "Optimal Strategy for a Game",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0",
+                "https://www.codingninjas.com/codestudio/problems/optimal-strategy-for-a-game_975479?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb1",
+            "title": "Unbounded Knapsack (Repetition of items allowed)",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
+                "https://www.codingninjas.com/codestudio/problems/unbounded-knapsack_1215029?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc99",
+            "title": "Maximize The Cut Segments",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/cutted-segments/0",
+                "https://www.codingninjas.com/codestudio/problems/cut-into-segments_1214651?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc90",
+            "title": "Permutation CoefficientProblem",
+            "links": [
+                "https://www.geeksforgeeks.org/permutation-coefficient/",
+                "https://www.codingninjas.com/codestudio/problems/permutationcoefficient_1214975?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc9d",
+            "title": "Space Optimized Solution of LCS",
+            "links": [
+                "https://www.geeksforgeeks.org/space-optimized-solution-lcs/",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc9e",
+            "title": "LCS (Longest Common Subsequence) of three strings",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0",
+                "https://www.codingninjas.com/codestudio/problems/lcs-of-3-strings_893011?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc9f",
+            "title": "Maximum Sum Increasing Subsequence",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+                "https://www.codingninjas.com/codestudio/problems/ninja-at-the-gym_1112624?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fca3",
+            "title": "Egg Dropping Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+                "https://www.codingninjas.com/codestudio/problems/cut-logs_982770?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb5",
+            "title": "Longest Palindromic Subsequence",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1/",
+                "https://www.codingninjas.com/codestudio/problems/longest-palindromic-subsequence_842787?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb7",
+            "title": "Longest Palindromic Substring",
+            "links": [
+                "https://leetcode.com/problems/longest-palindromic-substring/",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc96",
+            "title": "Gold Mine Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/gold-mine-problem2608/1",
+                "https://www.codingninjas.com/codestudio/problems/gold-mine-problem_799363?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fca4",
+            "title": "Maximum Length Chain of Pairs",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/max-length-chain/1",
+                "https://www.codingninjas.com/codestudio/problems/maximum-length-pair-chain_985258?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcab",
+            "title": "Minimum removals from array to make max –min <= K",
+            "links": [
+                "https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/",
+                "https://www.codingninjas.com/codestudio/problems/minimum-removals_1214550?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb0",
+            "title": "Smallest sum contiguous subarray",
+            "links": [
+                "https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/",
+                "https://www.codingninjas.com/codestudio/problems/minimum-sum-subarray_1062622?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcba",
+            "title": "Coin game winner where every player has three choices",
+            "links": [
+                "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/",
+                "https://www.codingninjas.com/codestudio/problems/coin-game-winner-where-every-player-has-three-choices_1229492?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcc0",
+            "title": "Word Wrap Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/word-wrap/0",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcae",
+            "title": "Count Balanced Binary Trees of Height h",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/bbt-counter/0",
+                "https://www.codingninjas.com/codestudio/problems/number-of-balanced-binary-trees_1062690?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb3",
+            "title": "Largest Independent Set Problem",
+            "links": [
+                "https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc9b",
+            "title": "Longest Repeated Subsequence",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc8e",
+            "title": "Knapsack Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+                "https://www.codingninjas.com/codestudio/problems/0-1-knapsack_920542?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fc97",
+            "title": "Assembly Line SchedulingProblem",
+            "links": [
+                "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/",
+                "https://www.codingninjas.com/codestudio/problems/minimum-time-to-cross-all-checkpoints_1214626?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fca0",
+            "title": "Count all subsequences having product less than K",
+            "links": [
+                "https://www.geeksforgeeks.org/count-subsequences-product-less-k/",
+                "https://www.codingninjas.com/codestudio/problems/count-the-number-of-subsequences-having-product-not-more-than-p_1214647?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcbb",
+            "title": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+            "links": [
+                "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/",
+                "https://www.codingninjas.com/codestudio/problems/count-derangements_1199092?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fca8",
+            "title": "Maximum difference of zeros and ones in binary string",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1",
+                "https://www.codingninjas.com/codestudio/problems/maximum-difference-of-zeros-and-ones-in-a-binary-string_1203919?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcbc",
+            "title": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+            "links": [
+                "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb6",
+            "title": "Count All Palindromic Subsequence in a given String",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+                "https://www.codingninjas.com/codestudio/problems/count-palindromic-subsequences_1062696?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb9",
+            "title": "Weighted Job Scheduling",
+            "links": [
+                "https://www.geeksforgeeks.org/weighted-job-scheduling/",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcc1",
+            "title": "Mobile Numeric Keypad Problem [ IMP ]",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
+                "https://www.codingninjas.com/codestudio/problems/mike-and-mobile_1082139?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcc2",
+            "title": "Boolean Parenthesization Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0",
+                "https://www.codingninjas.com/codestudio/problems/problem-name-boolean-evaluation_1214650?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcc8",
+            "title": "Maximum Length of Pair Chain",
+            "links": [
+                "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcac",
+            "title": "Longest Common Substring",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/longest-common-substring/0",
+                "https://www.codingninjas.com/codestudio/problems/longest-common-substring_1235207?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcad",
+            "title": "Count number of ways to reacha given score in a game",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/reach-a-given-score/0",
+                "https://www.codingninjas.com/codestudio/problems/ninja-and-his-exam_1214657?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcaf",
+            "title": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+                ""
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a06834e883b02cff3fcb8",
+            "title": "Longest alternating subsequence",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0",
+                "https://www.codingninjas.com/codestudio/problems/longest-alternating-subsequence_1214645?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a067b4e883b02cff3fc8a"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

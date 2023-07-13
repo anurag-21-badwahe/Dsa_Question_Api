@@ -1,0 +1,184 @@
+{
+    "questions": [
+        {
+            "_id": "647a2b2caa1049cda4dac909",
+            "title": "Count and say",
+            "links": [
+                "https://bit.ly/3K8Uwyi",
+                "https://leetcode.com/problems/count-and-say/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac90b",
+            "title": "Reverse Words in a String",
+            "links": [
+                "https://bit.ly/3FmKc1X",
+                "https://leetcode.com/problems/reverse-words-in-a-string/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac90e",
+            "title": "Implement ATOI/STRSTR",
+            "links": [
+                "https://bit.ly/3zXpYeb",
+                "https://leetcode.com/problems/string-to-integer-atoi/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac90d",
+            "title": "Roman Number to Integer and vice versa",
+            "links": [
+                "https://bit.ly/3rkGuBb",
+                "https://leetcode.com/problems/roman-to-integer/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac906",
+            "title": "KMP algo / LPS(pi) array",
+            "links": [
+                "https://bit.ly/31VF1s6",
+                "https://leetcode.com/problems/implement-strstr/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac90a",
+            "title": "Compare version numbers",
+            "links": [
+                "https://bit.ly/3GwYuys",
+                "https://leetcode.com/problems/compare-version-numbers/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac90c",
+            "title": "Longest Palindrome in a string",
+            "links": [
+                "https://bit.ly/3Grdrlv",
+                "https://leetcode.com/problems/longest-palindromic-substring/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac905",
+            "title": "Z-Function",
+            "links": [
+                "https://bit.ly/3qs24UM",
+                "https://leetcode.com/problems/implement-strstr/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac907",
+            "title": "Minimum characters needed to be inserted in the beginning to make it palindromic",
+            "links": [
+                "https://bit.ly/34RE855",
+                "https://www.interviewbit.com/problems/minimum-characters-required-to-make-a-string-palindromic/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac90f",
+            "title": "Longest Common Prefix",
+            "links": [
+                "https://bit.ly/3GlNN1D",
+                "https://leetcode.com/problems/longest-common-prefix/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac910",
+            "title": "Rabin Karp",
+            "links": [
+                "https://bit.ly/3FvnLaN",
+                "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2b2caa1049cda4dac908",
+            "title": "Check for Anagrams",
+            "links": [
+                "https://bit.ly/3K6weoJ",
+                "https://leetcode.com/problems/valid-anagram/"
+            ],
+            "topicId": [
+                "647a26d4aa1049cda4dac802"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

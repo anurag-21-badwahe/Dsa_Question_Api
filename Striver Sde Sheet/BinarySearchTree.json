@@ -1,0 +1,319 @@
+{
+    "questions": [
+        {
+            "_id": "647a2c60aa1049cda4dac92f",
+            "title": "Binary Tree to Double Linked List",
+            "links": [
+                "https://bit.ly/3HVnGz0",
+                "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac934",
+            "title": "Flood-fill Algorithm",
+            "links": [
+                "https://bit.ly/3Gv1Th5",
+                "https://leetcode.com/problems/flood-fill/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac93d",
+            "title": "Populate Next Right pointers of Tree",
+            "links": [
+                "https://bit.ly/33Bm8uX",
+                "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac931",
+            "title": "K-th largest element in a stream.",
+            "links": [
+                "https://bit.ly/3KdiUPp",
+                "https://leetcode.com/problems/kth-largest-element-in-a-stream/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac93e",
+            "title": "Search given Key in BST",
+            "links": [
+                "https://bit.ly/3Ft26jR",
+                "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac943",
+            "title": "Find the inorder predecessor/successor of a given Key in BST.",
+            "links": [
+                "https://bit.ly/3A0hm6l",
+                "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac936",
+            "title": "Ceil in a BST",
+            "links": [
+                "https://bit.ly/33b9enW",
+                "https://www.codingninjas.com/codestudio/problems/ceil-from-bst_920464?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac940",
+            "title": "Construct a BST from a preorder traversal",
+            "links": [
+                "https://bit.ly/3Fr7GTQ",
+                "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac941",
+            "title": "Check is a BT is BST or not",
+            "links": [
+                "https://bit.ly/3nmKek7",
+                "https://leetcode.com/problems/validate-binary-search-tree/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac935",
+            "title": "Floor in a BST",
+            "links": [
+                "https://bit.ly/3nsqdbY",
+                "https://www.codingninjas.com/codestudio/problems/floor-from-bst_920457?source=youtube&campaign=Striver_Tree_Videos&utm_source=youtube&utm_medium=affiliate&utm_campaign=Striver_Tree_Videos"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac930",
+            "title": "Find median in a stream of running integers.",
+            "links": [
+                "https://bit.ly/3rkTB58",
+                "https://leetcode.com/problems/find-median-from-data-stream/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac932",
+            "title": "Distinct numbers in Window.",
+            "links": [
+                "https://bit.ly/3zYWpcb",
+                "https://www.interviewbit.com/problems/distinct-numbers-in-window/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac942",
+            "title": "Find LCA of two nodes in BST",
+            "links": [
+                "https://bit.ly/3qqoaXM",
+                "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac93b",
+            "title": "Size of the largest BST in a Binary Tree",
+            "links": [
+                "https://bit.ly/3fn6h5V",
+                "https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac933",
+            "title": "K-th largest element in an unsorted array.",
+            "links": [
+                "https://bit.ly/3GvQttz",
+                "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac937",
+            "title": "Find K-th smallest element in BST",
+            "links": [
+                "https://bit.ly/3rf0HrP",
+                "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac93a",
+            "title": "BST iterator",
+            "links": [
+                "https://bit.ly/3FsH5FC",
+                "https://leetcode.com/problems/binary-search-tree-iterator/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac938",
+            "title": "Find K-th largest element in BST",
+            "links": [
+                "https://bit.ly/31Yjtet",
+                "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac93c",
+            "title": "Serialize and deserialize Binary Tree",
+            "links": [
+                "https://bit.ly/3qr6pYD",
+                "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac939",
+            "title": "Find a pair with a given sum in BST",
+            "links": [
+                "https://bit.ly/3FvDAOO",
+                "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c60aa1049cda4dac93f",
+            "title": "Construct BST from given keys",
+            "links": [
+                "https://bit.ly/3qr5I1t",
+                "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
+            ],
+            "topicId": [
+                "647a271caa1049cda4dac808"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

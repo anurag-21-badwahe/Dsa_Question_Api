@@ -1,0 +1,274 @@
+{
+    "questions": [
+        {
+            "_id": "647a05d34e883b02cff3fc3a",
+            "title": "Implement a Maxheap/MinHeap using arrays and recursion.",
+            "links": [
+                "https://www.geeksforgeeks.org/building-heap-from-array/",
+                "https://www.codingninjas.com/codestudio/problems/build-min-heap_1171167?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc4b",
+            "title": "Minimum sum of two numbers formed from digits of an array",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/minimum-sum4058/1",
+                "https://www.codingninjas.com/codestudio/problems/minimum-sum-of-two-numbers-formed-from-digits-of-an-array_1171162?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc3b",
+            "title": "Sort an Array using heap. (HeapSort)",
+            "links": [
+                "https://www.geeksforgeeks.org/heap-sort/",
+                "https://www.codingninjas.com/codestudio/problems/heap-sort_1262153?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc43",
+            "title": "Merge “K” Sorted Linked Lists [V.IMP]",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+                ""
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc4a",
+            "title": "Rearrange characters in a string such that no two adjacent are same.",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1",
+                ""
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc42",
+            "title": "Leetcode- reorganize strings",
+            "links": [
+                "https://leetcode.com/problems/reorganize-string/",
+                "https://www.codingninjas.com/codestudio/problems/rearrange-the-array_975383?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc46",
+            "title": "Check if a Binary Tree is Heap",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1",
+                "https://www.codingninjas.com/codestudio/problems/is-binary-heap-tree_893136?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc45",
+            "title": "Median in a stream of Integers",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
+                "https://www.codingninjas.com/codestudio/problems/median-in-a-stream_975268?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc47",
+            "title": "Connect “n” ropes with minimum cost",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+                ""
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc3e",
+            "title": "Kth smallest and largest element in an unsorted array",
+            "links": [
+                "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/",
+                "https://www.codingninjas.com/codestudio/problems/kth-smallest-element-in-an-unsorted-array_1170531?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc48",
+            "title": "Convert BST to Min Heap",
+            "links": [
+                "https://www.geeksforgeeks.org/convert-bst-min-heap/",
+                "https://www.codingninjas.com/codestudio/problems/convert-bst-to-min-heap_920498?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc41",
+            "title": "Kth largest sum continuous subarrays",
+            "links": [
+                "https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/",
+                "https://www.codingninjas.com/codestudio/problems/k-th-largest-sum-contiguous-subarray_920398?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc49",
+            "title": "Convert min heap to max heap",
+            "links": [
+                "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/",
+                "https://www.codingninjas.com/codestudio/problems/convert-min-heap-to-max-heap_1381084?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc3d",
+            "title": "“k” largest element in an array",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1",
+                "https://www.codingninjas.com/codestudio/problems/k-largest-element_1062624?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc3c",
+            "title": "Maximum of all subarrays of size k.",
+            "links": [
+                "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/",
+                "https://www.codingninjas.com/codestudio/problems/maximum-of-all-subarrays-of-size-k_1170789?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc3f",
+            "title": "Merge “K” sorted arrays. [ IMP ]",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
+                "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc40",
+            "title": "Merge 2 Binary Max Heaps",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0",
+                "https://www.codingninjas.com/codestudio/problems/merge-two-binary-max-heaps_1170049?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05d34e883b02cff3fc44",
+            "title": "Smallest range in “K” Lists",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1",
+                "https://www.codingninjas.com/codestudio/problems/smallest-range-from-k-sorted-list_1069356?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a059c4e883b02cff3fc37"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

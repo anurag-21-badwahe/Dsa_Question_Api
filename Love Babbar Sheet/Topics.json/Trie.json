@@ -1,0 +1,94 @@
+{
+    "questions": [
+        {
+            "_id": "647a064e4e883b02cff3fc85",
+            "title": "Given a sequence of words, print all anagrams together",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+                "https://www.codingninjas.com/codestudio/problems/group-anagrams_800285?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06354e883b02cff3fc7f"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a064e4e883b02cff3fc83",
+            "title": "Find shortest unique prefix for every word in a given list",
+            "links": [
+                "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/",
+                "https://www.codingninjas.com/codestudio/problems/shortest-unique-prefix_1094887?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06354e883b02cff3fc7f"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a064e4e883b02cff3fc82",
+            "title": "Construct a trie from scratch",
+            "links": [
+                "https://www.geeksforgeeks.org/trie-insert-and-search/",
+                "https://www.codingninjas.com/codestudio/problems/implement-trie_631356?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06354e883b02cff3fc7f"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a064e4e883b02cff3fc84",
+            "title": "Word Break Problem | (Trie solution)",
+            "links": [
+                "https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
+                "https://www.codingninjas.com/codestudio/problems/word-break_1094901?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06354e883b02cff3fc7f"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a064e4e883b02cff3fc86",
+            "title": "Implement a Phone Directory",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/phone-directory/0",
+                "https://www.codingninjas.com/codestudio/problems/implement-a-phone-directory_1062666?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06354e883b02cff3fc7f"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a064e4e883b02cff3fc87",
+            "title": "Print unique rows in a given boolean matrix",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1",
+                "https://www.codingninjas.com/codestudio/problems/unique-matrix_1214696?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a06354e883b02cff3fc7f"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

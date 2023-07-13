@@ -1,0 +1,334 @@
+{
+    "questions": [
+        {
+            "_id": "647a04bc4e883b02cff3fbbc",
+            "title": "Convert Binary tree into BST",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1",
+                "https://www.codingninjas.com/codestudio/problems/binary-tree-to-bst_893074?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbb4",
+            "title": "Find a value in a BST",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/search-a-node-in-bst/1/",
+                "https://www.codingninjas.com/codestudio/problems/find-a-value-in-bst_1170063?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbba",
+            "title": "Find LCA  of 2 nodes in a BST",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1",
+                "https://www.codingninjas.com/codestudio/problems/lca-in-a-bst_981280?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbb9",
+            "title": "Populate Inorder successor of all nodes",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1",
+                "https://www.codingninjas.com/codestudio/problems/populate-inorder-successor-of-all-nodes-of-a-binary-tree_1118625?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbb7",
+            "title": "Find inorder successor and inorder predecessor in a BST",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+                "https://www.codingninjas.com/codestudio/problems/_893049?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc7",
+            "title": "Check whether BST contains Dead end",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
+                "https://www.codingninjas.com/codestudio/problems/check-for-dead-end-in-a-bst_1169457?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc9",
+            "title": "Flatten BST to sorted list",
+            "links": [
+                "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/",
+                "https://www.codingninjas.com/codestudio/problems/flatten-bst-to-a-sorted-list_1169459?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbbb",
+            "title": "Construct BST from preorder traversal",
+            "links": [
+                "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+                "https://www.codingninjas.com/codestudio/problems/bst-from-preorder_2689307?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc5",
+            "title": "Given \"n\" appointments, find the conflicting appointments",
+            "links": [
+                "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/",
+                "https://www.codingninjas.com/codestudio/problems/find-conflicting-meetings_1170047?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbbf",
+            "title": "Find Kth largest element in a BST",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+                "https://www.codingninjas.com/codestudio/problems/k-th-largest-number_920438?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbbd",
+            "title": "Convert a normal BST into a Balanced BST",
+            "links": [
+                "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/",
+                "https://www.codingninjas.com/codestudio/problems/normal-bst-to-balanced-bst_920472?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc1",
+            "title": "Count pairs from 2 BST whose sum is equal to given value \"X\"",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1",
+                "https://www.codingninjas.com/codestudio/problems/count-couples_3208653?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc4",
+            "title": "Replace every element with the least greater element on its right",
+            "links": [
+                "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/",
+                "https://www.codingninjas.com/codestudio/problems/least-greater-element_1164266?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc8",
+            "title": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/largest-bst/1",
+                "https://www.codingninjas.com/codestudio/problems/largest-bst-subtree_893103?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc6",
+            "title": "Check preorder is valid or not",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0",
+                "https://www.codingninjas.com/codestudio/problems/check-if-preorder-traversal-is-valid_1164410?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbbe",
+            "title": "Merge two BST [ V.V.V>IMP ]",
+            "links": [
+                "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/",
+                "https://www.codingninjas.com/codestudio/problems/h_920474?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbb8",
+            "title": "Check if a tree is a BST or not ",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+                "https://www.codingninjas.com/codestudio/problems/validate-bst_799483?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbb5",
+            "title": "Deletion of a node in a BST",
+            "links": [
+                "https://leetcode.com/problems/delete-node-in-a-bst/",
+                "https://www.codingninjas.com/codestudio/problems/delete-node-in-bst_920381?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc0",
+            "title": "Find Kth smallest element in a BST",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1",
+                "https://www.codingninjas.com/codestudio/problems/kth-smallest-node-in-bst_920441?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbb6",
+            "title": "Find min and max value in a BST",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1",
+                "https://www.codingninjas.com/codestudio/problems/guess-price_3211264?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc2",
+            "title": "Find the median of BST in O(n) time and O(1) space",
+            "links": [
+                "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
+                "https://www.codingninjas.com/codestudio/problems/median-of-a-bst_893184?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04bc4e883b02cff3fbc3",
+            "title": "Count BST nodes that lie in a given range",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+                "https://www.codingninjas.com/codestudio/problems/bst-queries_1095658?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04744e883b02cff3fbb1"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

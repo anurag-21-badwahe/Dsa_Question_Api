@@ -1,0 +1,274 @@
+{
+    "questions": [
+        {
+            "_id": "647a2ca3aa1049cda4dac954",
+            "title": "Topological Sort DFS",
+            "links": [
+                "https://bit.ly/33bapUo",
+                "https://practice.geeksforgeeks.org/problems/topological-sort/1"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac94d",
+            "title": "DFS",
+            "links": [
+                "https://bit.ly/33BcXeg",
+                "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac949",
+            "title": "Floyd Warshall Algorithm",
+            "links": [
+                "https://bit.ly/3Kb41Ny",
+                "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac950",
+            "title": "Detect A cycle in Undirected Graph using DFS",
+            "links": [
+                "https://bit.ly/3npFdrn",
+                "https://leetcode.com/problems/course-schedule/"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac948",
+            "title": "Bellman-Ford Algo",
+            "links": [
+                "https://bit.ly/3GwAf3A",
+                "https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/0/?fbclid=IwAR2_lL0T84DnciLyzMTQuVTMBOi82nTWNLuXjUgahnrtBgkphKiYk6xcyJU"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac94b",
+            "title": "MST using KruskalΓÇÖs Algo",
+            "links": [
+                "https://bit.ly/3I1VqL9",
+                "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac946",
+            "title": "Strongly Connected Component(using KosaRajuΓÇÖs algo)",
+            "links": [
+                "https://bit.ly/3twUKJP",
+                "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac956",
+            "title": "Bipartite Check using BFS",
+            "links": [
+                "https://bit.ly/3tps98W",
+                "https://leetcode.com/problems/is-graph-bipartite/"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac951",
+            "title": "Detect A cycle in a Directed Graph using DFS",
+            "links": [
+                "https://bit.ly/3FrzaZp",
+                "https://leetcode.com/problems/course-schedule/"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac957",
+            "title": "Bipartite Check using DFS",
+            "links": [
+                "https://bit.ly/3tps98W",
+                "https://leetcode.com/problems/is-graph-bipartite/"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac94c",
+            "title": "Clone a graph (Not that easy as it looks)",
+            "links": [
+                "https://bit.ly/33BcVmE",
+                "https://leetcode.com/problems/clone-graph/"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac94e",
+            "title": "BFS",
+            "links": [
+                "https://bit.ly/3rgb26U",
+                "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac94f",
+            "title": "Detect A cycle in Undirected Graph using BFS",
+            "links": [
+                "https://bit.ly/3npFdrn",
+                "https://leetcode.com/problems/course-schedule/"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac947",
+            "title": "DijkstraΓÇÖs Algorithm",
+            "links": [
+                "https://bit.ly/3qrEHLm",
+                "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac94a",
+            "title": "MST using PrimΓÇÖs Algo",
+            "links": [
+                "https://bit.ly/3I5Ktbi",
+                "https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac952",
+            "title": "Detect A cycle in a Directed Graph using BFS",
+            "links": [
+                "https://bit.ly/3FrzaZp",
+                "https://leetcode.com/problems/course-schedule/"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac955",
+            "title": "Number of islands(Do in Grid and Graph Both)",
+            "links": [
+                "https://bit.ly/3KaSCND",
+                "https://leetcode.com/problems/number-of-islands/"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2ca3aa1049cda4dac953",
+            "title": "Topological Sort BFS",
+            "links": [
+                "https://bit.ly/33bapUo",
+                "https://practice.geeksforgeeks.org/problems/topological-sort/1"
+            ],
+            "topicId": [
+                "647a2740aa1049cda4dac80b"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

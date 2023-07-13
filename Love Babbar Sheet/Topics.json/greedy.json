@@ -1,0 +1,529 @@
+{
+    "questions": [
+        {
+            "_id": "647a04f84e883b02cff3fbd3",
+            "title": "Fractional Knapsack Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/fractional-knapsack/0",
+                "https://www.codingninjas.com/codestudio/problems/fractional-knapsack_975286?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe7",
+            "title": "DEFKIN -Defense of a Kingdom",
+            "links": [
+                "https://www.spoj.com/problems/DEFKIN/",
+                ""
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbea",
+            "title": "Picking Up Chicks",
+            "links": [
+                "https://www.spoj.com/problems/GCJ101BB/",
+                ""
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbd6",
+            "title": "Minimum Platforms Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
+                "https://www.codingninjas.com/codestudio/problems/minimum-number-of-platforms_799400?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbd2",
+            "title": "Water Connection Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/water-connection-problem/0",
+                "https://www.codingninjas.com/codestudio/problems/minimum-weight-in-a-connected-component_1170508?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe1",
+            "title": "Maximize sum of consecutive differences in a circular array",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/swap-and-maximize/0",
+                "https://www.codingninjas.com/codestudio/problems/swap-and-maximise_1164405?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbd5",
+            "title": "Maximum trains for which stoppage can be provided",
+            "links": [
+                "https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/",
+                "https://www.codingninjas.com/codestudio/problems/maximum-trains-for-which-stoppage-can-be-provided_1169456?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbda",
+            "title": "Minimum Cost to cut a board into squares",
+            "links": [
+                "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/",
+                "https://www.codingninjas.com/codestudio/problems/board-cutting_975500?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe5",
+            "title": "Smallest subset with sum greater than all other elements",
+            "links": [
+                "https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/",
+                "https://www.codingninjas.com/codestudio/problems/find-the-smallest-subset-of-balls-whose-weight-is-greater-than-the-weight-of-remaining-balls_1170530?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe6",
+            "title": "Chocolate Distribution Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+                ""
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe9",
+            "title": "GERGOVIA -Wine trading in Gergovia",
+            "links": [
+                "https://www.spoj.com/problems/GERGOVIA/",
+                ""
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbed",
+            "title": "K Centers Problem",
+            "links": [
+                "https://www.geeksforgeeks.org/k-centers-problem-set-1-greedy-approximate-algorithm/",
+                "https://www.codingninjas.com/codestudio/problems/k-centers_1280117?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe3",
+            "title": "Program for Shortest Job First (or SJF) CPU Scheduling",
+            "links": [
+                "https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/",
+                "https://www.codingninjas.com/codestudio/problems/sjf_1172165?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe2",
+            "title": "Minimum sum of absolute difference of pairs of two arrays",
+            "links": [
+                "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/",
+                "https://www.codingninjas.com/codestudio/problems/minimum-difference_1164402?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbeb",
+            "title": "CHOCOLA –Chocolate",
+            "links": [
+                "https://www.spoj.com/problems/CHOCOLA/",
+                ""
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbef",
+            "title": "Find smallest number with given number of digits and sum of digits",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/smallest-number5829/1",
+                "https://www.codingninjas.com/codestudio/problems/smallest-number_1164401?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbee",
+            "title": "Minimum Cost of ropes",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+                "https://www.codingninjas.com/codestudio/problems/connect-n-ropes-with-minimum-cost_630476?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbf0",
+            "title": "Rearrange characters in a string such that no two adjacent are same",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/rearrange-characters4649/1",
+                ""
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe4",
+            "title": "Program for Least Recently Used (LRU) Page Replacement algorithm",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0",
+                "https://www.codingninjas.com/codestudio/problems/page-faults_2826682?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbd7",
+            "title": "Buy Maximum Stocks if i stocks can be bought on i-th day",
+            "links": [
+                "https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/",
+                "https://www.codingninjas.com/codestudio/problems/maximum-shares_3114365?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbd4",
+            "title": "Greedy Algorithm to find Minimum number of Coins",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/coin-piles/0",
+                "https://www.codingninjas.com/codestudio/problems/greedy-algorithm-for-ninja-and-the-coins_3191489?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbec",
+            "title": "ARRANGE -Arranging Amplifiers",
+            "links": [
+                "https://www.spoj.com/problems/ARRANGE/",
+                ""
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbd8",
+            "title": "Find the minimum and maximum amount to buy all N candies",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0",
+                "https://www.codingninjas.com/codestudio/problems/minimum-and-maximum-cost-to-buy-n-candies_975298?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe0",
+            "title": "Maximum sum of absolute difference of an array",
+            "links": [
+                "https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/",
+                "https://www.codingninjas.com/codestudio/problems/maximum-sum-of-absolute-difference_1164175?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbe8",
+            "title": "DIEHARD -DIE HARD",
+            "links": [
+                "https://www.spoj.com/problems/DIEHARD/",
+                ""
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbdb",
+            "title": "Check if it is possible to survive on Island",
+            "links": [
+                "https://www.geeksforgeeks.org/survival/",
+                "https://www.codingninjas.com/codestudio/problems/check-if-possible-to-survive_1170052?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbcf",
+            "title": "Activity Selection Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1/",
+                "https://www.codingninjas.com/codestudio/problems/maximum-activities_1062712?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbd1",
+            "title": "Huffman Coding",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/huffman-encoding/0",
+                "https://www.codingninjas.com/codestudio/problems/huffman-coding_1169467?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbd0",
+            "title": "Job Sequencing Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0",
+                "https://www.codingninjas.com/codestudio/problems/job-sequencing-problem_1169460?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbd9",
+            "title": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+            "links": [
+                "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+                "https://www.codingninjas.com/codestudio/problems/minimize-cash-flow-among-a-given-set-of-friends-who-have-borrowed-money-from-each-other_1170048?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbdc",
+            "title": "Find maximum meetings in one room",
+            "links": [
+                "https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/",
+                "https://www.codingninjas.com/codestudio/problems/maximum-meetings_1062658?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbde",
+            "title": "Maximize array sum after K negations",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations/0",
+                "https://www.codingninjas.com/codestudio/problems/max-sum-after-k-negations_1170050?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbdf",
+            "title": "Maximize the sum of arr[i]*i",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0",
+                "https://www.codingninjas.com/codestudio/problems/maximum-sum_2824971?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbdd",
+            "title": "Maximum product subset of an array",
+            "links": [
+                "https://www.geeksforgeeks.org/maximum-product-subset-array/",
+                "https://www.codingninjas.com/codestudio/problems/max-product-subset_1170054?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a04f84e883b02cff3fbf1",
+            "title": "Find maximum sum possible equal sum of three stacks",
+            "links": [
+                "https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/",
+                "https://www.codingninjas.com/codestudio/problems/maximum-equal-sum-stack_1164270?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a04d54e883b02cff3fbcc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

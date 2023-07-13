@@ -1,0 +1,274 @@
+{
+    "questions": [
+        {
+            "_id": "647a28bdaa1049cda4dac8bd",
+            "title": "Check if a LinkedList is palindrome or not.",
+            "links": [
+                "https://bit.ly/3GqRMKv",
+                "https://leetcode.com/problems/palindrome-linked-list/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8b6",
+            "title": "Merge two sorted Linked List (use method used in mergeSort)",
+            "links": [
+                "https://bit.ly/3qnbSj8",
+                "https://leetcode.com/problems/merge-two-sorted-lists/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8bb",
+            "title": "Detect a cycle in Linked List",
+            "links": [
+                "https://bit.ly/3I2fmxh",
+                "https://leetcode.com/problems/linked-list-cycle/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8b9",
+            "title": "Delete a given Node when a node is given.(0(1) solution)",
+            "links": [
+                "https://bit.ly/3GqW4kN",
+                "https://leetcode.com/problems/delete-node-in-a-linked-list/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8c3",
+            "title": "Trapping Rainwater",
+            "links": [
+                "https://bit.ly/3KcxExJ",
+                "https://leetcode.com/problems/trapping-rain-water/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8c5",
+            "title": "Max consecutive ones",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/892994?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://leetcode.com/problems/max-consecutive-ones/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8c0",
+            "title": "Rotate a LinkedList",
+            "links": [
+                "https://bit.ly/33bNQPo",
+                "https://leetcode.com/problems/rotate-list/description/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8b5",
+            "title": "Find the middle of LinkedList",
+            "links": [
+                "https://bit.ly/3KcRxoG",
+                "https://leetcode.com/problems/middle-of-the-linked-list/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8b4",
+            "title": "Reverse a LinkedList",
+            "links": [
+                "https://bit.ly/3qoE6K6",
+                "https://leetcode.com/problems/reverse-linked-list/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8bf",
+            "title": "Flattening of a LinkedList",
+            "links": [
+                "https://bit.ly/3nqtEA1",
+                "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8c2",
+            "title": "3 sum",
+            "links": [
+                "https://bit.ly/33wlWxk",
+                "https://leetcode.com/problems/3sum/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8ba",
+            "title": "Find intersection point of Y LinkedList",
+            "links": [
+                "https://bit.ly/3fiMQeG",
+                "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8b7",
+            "title": "Remove N-th node from back of LinkedList",
+            "links": [
+                "https://bit.ly/3riZ4JB",
+                "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8be",
+            "title": "Find the starting point of the Loop of LinkedList",
+            "links": [
+                "https://bit.ly/3K32lpf",
+                "https://leetcode.com/problems/linked-list-cycle-ii/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8c1",
+            "title": "Clone a Linked List with random and next pointer",
+            "links": [
+                "https://bit.ly/3qnFoFg",
+                "https://leetcode.com/problems/copy-list-with-random-pointer/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8b8",
+            "title": "Add two numbers as LinkedList",
+            "links": [
+                "https://bit.ly/3qqbgcq",
+                "https://leetcode.com/problems/add-two-numbers/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8bc",
+            "title": "Reverse a LinkedList in groups of size k.",
+            "links": [
+                "https://bit.ly/3Gsfk1u",
+                "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a28bdaa1049cda4dac8c4",
+            "title": "Remove Duplicate from Sorted array",
+            "links": [
+                "https://bit.ly/31Usllh",
+                "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+            ],
+            "topicId": [
+                "647a263daa1049cda4dac7ed"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

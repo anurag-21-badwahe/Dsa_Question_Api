@@ -1,0 +1,229 @@
+{
+    "questions": [
+        {
+            "_id": "647a2cdaaa1049cda4dac95e",
+            "title": "Edit Distance",
+            "links": [
+                "https://bit.ly/3qpUHgE",
+                "https://leetcode.com/problems/edit-distance/"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac95c",
+            "title": "Longest Common Subsequence",
+            "links": [
+                "https://bit.ly/3raZbqM",
+                "https://leetcode.com/problems/longest-common-subsequence/"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac961",
+            "title": "Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path)",
+            "links": [
+                "https://bit.ly/3zWJEin",
+                "https://leetcode.com/problems/minimum-path-sum/"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac967",
+            "title": "Palindrome Partitioning (MCM Variation)",
+            "links": [
+                "https://bit.ly/3tq9MRn",
+                "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac95f",
+            "title": "Maximum sum increasing subsequence",
+            "links": [
+                "https://bit.ly/3tqiS0s",
+                "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac963",
+            "title": "Subset Sum",
+            "links": [
+                "https://bit.ly/3rjUdb7",
+                "https://leetcode.com/problems/partition-equal-subset-sum/"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac968",
+            "title": "Maximum profit in Job scheduling",
+            "links": [
+                "https://bit.ly/34FoY2C",
+                "https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac95d",
+            "title": "0-1 Knapsack",
+            "links": [
+                "https://bit.ly/3FvHbMO",
+                "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac964",
+            "title": "Rod Cutting",
+            "links": [
+                "https://bit.ly/3GuIsoS",
+                "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac962",
+            "title": "Coin change",
+            "links": [
+                "https://bit.ly/3GwBrnA",
+                "https://leetcode.com/problems/coin-change/"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac965",
+            "title": "Egg Dropping",
+            "links": [
+                "https://bit.ly/3A6id5O",
+                "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac960",
+            "title": "Matrix Chain Multiplication",
+            "links": [
+                "https://bit.ly/3qqX56T",
+                "https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac966",
+            "title": "Word Break",
+            "links": [
+                "https://bit.ly/3npqs7P",
+                "https://practice.geeksforgeeks.org/problems/word-break1352/1"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac95a",
+            "title": "Max Product Subarray",
+            "links": [
+                "https://bit.ly/3fqz6OS",
+                "https://leetcode.com/problems/maximum-product-subarray/"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2cdaaa1049cda4dac95b",
+            "title": "Longest Increasing Subsequence",
+            "links": [
+                "https://bit.ly/3GuWGpA",
+                "https://leetcode.com/problems/longest-increasing-subsequence/"
+            ],
+            "topicId": [
+                "647a2750aa1049cda4dac80e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

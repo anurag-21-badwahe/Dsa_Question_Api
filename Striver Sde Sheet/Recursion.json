@@ -1,0 +1,94 @@
+{
+    "questions": [
+        {
+            "_id": "647a2930aa1049cda4dac8d5",
+            "title": "K-th permutation Sequence",
+            "links": [
+                "https://bit.ly/3KcCP0D",
+                "https://leetcode.com/problems/permutation-sequence/"
+            ],
+            "topicId": [
+                "647a2668aa1049cda4dac7f3"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2930aa1049cda4dac8d0",
+            "title": "Subset Sums",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/subset-sum_3843086?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://practice.geeksforgeeks.org/problems/subset-sums2234/1"
+            ],
+            "topicId": [
+                "647a2668aa1049cda4dac7f3"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2930aa1049cda4dac8d4",
+            "title": "Palindrome Partitioning",
+            "links": [
+                "https://bit.ly/3HZPNgs",
+                "https://leetcode.com/problems/palindrome-partitioning/"
+            ],
+            "topicId": [
+                "647a2668aa1049cda4dac7f3"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2930aa1049cda4dac8d2",
+            "title": "Combination sum-1",
+            "links": [
+                "https://bit.ly/3qpmDS1",
+                "https://leetcode.com/problems/combination-sum/"
+            ],
+            "topicId": [
+                "647a2668aa1049cda4dac7f3"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2930aa1049cda4dac8d1",
+            "title": "Subset-II",
+            "links": [
+                "https://bit.ly/3qnaLjq",
+                "https://leetcode.com/problems/subsets-ii/"
+            ],
+            "topicId": [
+                "647a2668aa1049cda4dac7f3"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2930aa1049cda4dac8d3",
+            "title": "Combination sum-2",
+            "links": [
+                "https://bit.ly/3tkbtjk",
+                "https://leetcode.com/problems/combination-sum-ii/"
+            ],
+            "topicId": [
+                "647a2668aa1049cda4dac7f3"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

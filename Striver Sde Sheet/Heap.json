@@ -1,0 +1,94 @@
+{
+    "questions": [
+        {
+            "_id": "647a29ccaa1049cda4dac8ec",
+            "title": "Maximum Sum Combination",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/k-max-sum-combinations_975322?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://www.interviewbit.com/problems/maximum-sum-combinations/"
+            ],
+            "topicId": [
+                "647a26bcaa1049cda4dac7fc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a29ccaa1049cda4dac8ea",
+            "title": "Max heap, Min Heap Implementation (Only for interviews)",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/min-heap_4691801?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                null
+            ],
+            "topicId": [
+                "647a26bcaa1049cda4dac7fc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a29ccaa1049cda4dac8ed",
+            "title": "Find Median from Data Stream",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/running-median_625409?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://leetcode.com/problems/find-median-from-data-stream/"
+            ],
+            "topicId": [
+                "647a26bcaa1049cda4dac7fc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a29ccaa1049cda4dac8ef",
+            "title": "K most frequent elements",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/k-most-frequent-elements_3167808?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://leetcode.com/problems/top-k-frequent-elements/"
+            ],
+            "topicId": [
+                "647a26bcaa1049cda4dac7fc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a29ccaa1049cda4dac8ee",
+            "title": "Merge K sorted arrays",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://www.codingninjas.com/codestudio/problems/merge-k-sorted-arrays_975379"
+            ],
+            "topicId": [
+                "647a26bcaa1049cda4dac7fc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a29ccaa1049cda4dac8eb",
+            "title": "Kth Largest Element",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/kth-smallest-and-largest-element-of-array_1115488?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+            ],
+            "topicId": [
+                "647a26bcaa1049cda4dac7fc"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

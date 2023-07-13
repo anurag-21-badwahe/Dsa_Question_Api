@@ -1,0 +1,94 @@
+{
+    "questions": [
+        {
+            "_id": "647a2960aa1049cda4dac8dc",
+            "title": "Rat in a Maze",
+            "links": [
+                "https://bit.ly/3fmwP7t",
+                "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1"
+            ],
+            "topicId": [
+                "647a267eaa1049cda4dac7f6"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2960aa1049cda4dac8d8",
+            "title": "Print all permutations of a string/array",
+            "links": [
+                "https://bit.ly/3fmwxNV",
+                "https://leetcode.com/problems/permutations/"
+            ],
+            "topicId": [
+                "647a267eaa1049cda4dac7f6"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2960aa1049cda4dac8d9",
+            "title": "N queens Problem",
+            "links": [
+                "https://bit.ly/3zSZavC",
+                "https://leetcode.com/problems/n-queens/"
+            ],
+            "topicId": [
+                "647a267eaa1049cda4dac7f6"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2960aa1049cda4dac8db",
+            "title": "M Coloring Problem",
+            "links": [
+                "https://bit.ly/3I48oI6",
+                "https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#"
+            ],
+            "topicId": [
+                "647a267eaa1049cda4dac7f6"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2960aa1049cda4dac8da",
+            "title": "Sudoko Solver",
+            "links": [
+                "https://bit.ly/31Z5Iwe",
+                "https://leetcode.com/problems/sudoku-solver/"
+            ],
+            "topicId": [
+                "647a267eaa1049cda4dac7f6"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2960aa1049cda4dac8dd",
+            "title": "Word Break (print all ways)",
+            "links": [
+                "https://bit.ly/3FxgW92",
+                null
+            ],
+            "topicId": [
+                "647a267eaa1049cda4dac7f6"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

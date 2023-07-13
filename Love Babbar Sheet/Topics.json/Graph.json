@@ -1,0 +1,664 @@
+{
+    "questions": [
+        {
+            "_id": "647a060d4e883b02cff3fc52",
+            "title": "Create a Graph (for practice)",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1",
+                "https://www.codingninjas.com/codestudio/problems/create-a-graph-and-print-it_1214551?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc56",
+            "title": "Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+                "https://www.codingninjas.com/codestudio/problems/cycle-detection-in-undirected-graph_1062670?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc59",
+            "title": "flood fill algo",
+            "links": [
+                "https://leetcode.com/problems/flood-fill/",
+                "https://www.codingninjas.com/codestudio/problems/flood-fill-algorithm_1089687?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc66",
+            "title": "Implement Bellman Ford Algorithm",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0",
+                "https://www.codingninjas.com/codestudio/problems/bellmon-ford_2041977?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc53",
+            "title": "Implement BFS algorithm ",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+                "https://www.codingninjas.com/codestudio/problems/bfs-in-graph_973002?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc7a",
+            "title": "Number of Triangles in a Directed and Undirected Graph",
+            "links": [
+                "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/",
+                "https://www.codingninjas.com/codestudio/problems/number-of-triangles-in-directed-and-undirected-graphs_1214931?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc6a",
+            "title": "Snake and Ladders Problem",
+            "links": [
+                "https://leetcode.com/problems/snakes-and-ladders/",
+                "https://www.codingninjas.com/codestudio/problems/snake-and-ladder_630458?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc76",
+            "title": "Minimum edges to reverse to make path from source to destination",
+            "links": [
+                "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/",
+                "https://www.codingninjas.com/codestudio/problems/reverse-edges_1200162?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc5b",
+            "title": "Making wired Connections",
+            "links": [
+                "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+                "https://www.codingninjas.com/codestudio/problems/minimum-connection-changes_1171168?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc5d",
+            "title": "Dijkstra algo",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1/",
+                "https://www.codingninjas.com/codestudio/problems/dijkstra-s-shortest-path_920469?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc60",
+            "title": "Find whether it is possible to finish all tasks or not from given dependencies",
+            "links": [
+                "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
+                "https://www.codingninjas.com/codestudio/problems/kill-the-snipers_1171161?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc6f",
+            "title": "Longest path in a Directed Acyclic Graph",
+            "links": [
+                "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/",
+                "https://www.codingninjas.com/codestudio/problems/longest-path-in-directed-graph_1172157?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc57",
+            "title": "Search in a Maze",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+                ""
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc5c",
+            "title": "word Ladder ",
+            "links": [
+                "https://leetcode.com/problems/word-ladder/",
+                "https://www.codingninjas.com/codestudio/problems/word-ladder_1102319?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc58",
+            "title": "Minimum Step by Knight",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/steps-by-knight/0",
+                "https://www.codingninjas.com/codestudio/problems/minimum-knight-moves_2179628?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc62",
+            "title": "Given a sorted Dictionary of an Alien Language, find order of characters",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+                "https://www.codingninjas.com/codestudio/problems/ninja-and-alien_1171179?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc67",
+            "title": "Implement Floyd Warshall Algorithm",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0",
+                "https://www.codingninjas.com/codestudio/problems/flloyd-warshall_2041979?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc5f",
+            "title": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+            "links": [
+                "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/",
+                "https://www.codingninjas.com/codestudio/problems/kill-the-snipers-ii_1171163?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc72",
+            "title": "Oliver and the Game",
+            "links": [
+                "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/",
+                "https://www.codingninjas.com/codestudio/problems/hide-and-seek_1172173?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc77",
+            "title": "Paths to travel each nodes using each edge(Seven Bridges)",
+            "links": [
+                "https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/",
+                "https://www.codingninjas.com/codestudio/problems/euler-path_1214547?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc7b",
+            "title": "Minimise the cashflow among a given set of friends who have borrowed money from each other",
+            "links": [
+                "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+                "https://www.codingninjas.com/codestudio/problems/minimum-cash-flow_975372?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc69",
+            "title": "Graph Colouring Problem",
+            "links": [
+                "https://www.geeksforgeeks.org/graph-coloring-applications/",
+                ""
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc6d",
+            "title": "Check whether a graph is Bipartite or Not",
+            "links": [
+                "https://www.geeksforgeeks.org/bipartite-graph/",
+                "https://www.codingninjas.com/codestudio/problems/check-graph-is-bipartite-or-not_920551?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc73",
+            "title": "Water Jug problem using BFS",
+            "links": [
+                "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+                "https://www.codingninjas.com/codestudio/problems/ninja-and-vessels_1172168?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc63",
+            "title": "Implement Kruskal’s Algorithm",
+            "links": [
+                "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/",
+                "https://www.codingninjas.com/codestudio/problems/minimum-spanning-tree_631769?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc64",
+            "title": "Implement Prim’s Algorithm",
+            "links": [
+                "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
+                "https://www.codingninjas.com/codestudio/problems/prim-s-mst_1095633?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc65",
+            "title": "Total no. of Spanning tree in a graph",
+            "links": [
+                "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
+                "https://www.codingninjas.com/codestudio/problems/total-number-of-spanning-trees-in-a-graph_1171196?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc78",
+            "title": "Vertex Cover Problem",
+            "links": [
+                "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/",
+                "https://www.codingninjas.com/codestudio/problems/vertex-cover-problem_1081481?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc6e",
+            "title": "Detect Negative cycle in a graph",
+            "links": [
+                "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
+                "https://www.codingninjas.com/codestudio/problems/negative-cycle-in-a-directed-graph_1090517?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc54",
+            "title": "Implement DFS Algo ",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+                "https://www.codingninjas.com/codestudio/problems/dfs-traversal_630462?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc68",
+            "title": "Travelling Salesman Problem",
+            "links": [
+                "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
+                "https://www.codingninjas.com/codestudio/problems/travelling-salesman-problem_1385180?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc51",
+            "title": "Create a Graph, print it",
+            "links": [
+                "https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5",
+                "https://www.codingninjas.com/codestudio/problems/create-a-graph-and-print-it_1214551?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc71",
+            "title": "Cheapest Flights Within K Stops",
+            "links": [
+                "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+                "https://www.codingninjas.com/codestudio/problems/saving-money_1171195?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc5a",
+            "title": "Clone a graph",
+            "links": [
+                "https://leetcode.com/problems/clone-graph/",
+                "https://www.codingninjas.com/codestudio/problems/clone-graph_1103394?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc5e",
+            "title": "Implement Topological Sort ",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+                "https://www.codingninjas.com/codestudio/problems/topological-sort_982938?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc61",
+            "title": "Find the no. of Islands",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+                "https://www.codingninjas.com/codestudio/problems/find-number-of-islands_630512?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc70",
+            "title": "Journey to the Moon",
+            "links": [
+                "https://www.hackerrank.com/challenges/journey-to-the-moon/problem",
+                "https://www.codingninjas.com/codestudio/problems/ninja-and-fruits_1170757?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc79",
+            "title": "Chinese Postman or Route Inspection",
+            "links": [
+                "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/",
+                "https://www.codingninjas.com/codestudio/problems/minimum-travel-time_1171046?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc7c",
+            "title": "Two Clique Problem",
+            "links": [
+                "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/",
+                "https://www.codingninjas.com/codestudio/problems/two-cliques_1214524?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc6b",
+            "title": "Find bridge in a graph",
+            "links": [
+                "https://www.geeksforgeeks.org/bridge-in-a-graph/",
+                "https://www.codingninjas.com/codestudio/problems/bridges-in-graph_893026?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc55",
+            "title": "Detect Cycle in Directed Graph using BFS/DFS Algo ",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+                "https://www.codingninjas.com/codestudio/problems/detect-cycle-in-a-directed-graph_920545?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc6c",
+            "title": "Count Strongly connected Components(Kosaraju Algo)",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+                "https://www.codingninjas.com/codestudio/problems/count-strongly-connected-components-kosaraju-s-algorithm_1171151?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc74",
+            "title": "Find if there is a path of more thank length from a source",
+            "links": [
+                "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+                ""
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a060d4e883b02cff3fc75",
+            "title": "M-Colouring Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+                ""
+            ],
+            "topicId": [
+                "647a05f84e883b02cff3fc4e"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

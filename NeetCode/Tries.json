@@ -1,0 +1,46 @@
+{
+    "questions": [
+        {
+            "_id": "648038d8a4680459e698bf75",
+            "title": "Word Search II",
+            "links": [
+                "https://leetcode.com/problems/word-search-ii/"
+            ],
+            "topicId": [
+                "648038c4a4680459e698bf70"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038d8a4680459e698bf73",
+            "title": "Implement Trie Prefix Tree",
+            "links": [
+                "https://leetcode.com/problems/implement-trie-prefix-tree/"
+            ],
+            "topicId": [
+                "648038c4a4680459e698bf70"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038d8a4680459e698bf74",
+            "title": "Design Add And Search Words Data Structure",
+            "links": [
+                "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+            ],
+            "topicId": [
+                "648038c4a4680459e698bf70"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

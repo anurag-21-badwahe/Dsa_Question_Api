@@ -1,0 +1,124 @@
+{
+    "questions": [
+        {
+            "_id": "647a2998aa1049cda4dac8e5",
+            "title": "K-th element of two sorted arrays",
+            "links": [
+                "https://bit.ly/3qm0cgu",
+                "https://practice.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1"
+            ],
+            "topicId": [
+                "647a26b1aa1049cda4dac7f9"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2998aa1049cda4dac8e4",
+            "title": "Median of 2 sorted arrays",
+            "links": [
+                "https://bit.ly/3Ka3jQr",
+                "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+            ],
+            "topicId": [
+                "647a26b1aa1049cda4dac7f9"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2998aa1049cda4dac8e0",
+            "title": "The N-th root of an integer",
+            "links": [
+                "https://bit.ly/3rj7Ib1",
+                null
+            ],
+            "topicId": [
+                "647a26b1aa1049cda4dac7f9"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2998aa1049cda4dac8e7",
+            "title": "Aggressive Cows",
+            "links": [
+                "https://bit.ly/3zV52ob",
+                "https://www.spoj.com/problems/AGGRCOW/"
+            ],
+            "topicId": [
+                "647a26b1aa1049cda4dac7f9"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2998aa1049cda4dac8e1",
+            "title": "Matrix Median",
+            "links": [
+                "https://bit.ly/33AHZTz",
+                "https://www.interviewbit.com/problems/matrix-median/"
+            ],
+            "topicId": [
+                "647a26b1aa1049cda4dac7f9"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2998aa1049cda4dac8e3",
+            "title": "Search element in a sorted and rotated array/ find pivot where it is rotated",
+            "links": [
+                "https://bit.ly/3nnxGcm",
+                "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+            ],
+            "topicId": [
+                "647a26b1aa1049cda4dac7f9"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2998aa1049cda4dac8e6",
+            "title": "Allocate Minimum Number of Pages",
+            "links": [
+                "https://bit.ly/3FrKxk7",
+                "https://www.interviewbit.com/problems/allocate-books/"
+            ],
+            "topicId": [
+                "647a26b1aa1049cda4dac7f9"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2998aa1049cda4dac8e2",
+            "title": "Find the element that appears once in a sorted array, and the rest element appears twice (Binary search)",
+            "links": [
+                "https://bit.ly/3rng2qC",
+                "https://leetcode.com/problems/single-element-in-a-sorted-array/"
+            ],
+            "topicId": [
+                "647a26b1aa1049cda4dac7f9"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

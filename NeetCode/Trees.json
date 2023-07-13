@@ -1,0 +1,214 @@
+{
+    "questions": [
+        {
+            "_id": "648038a6a4680459e698bf6b",
+            "title": "Construct Binary Tree From Preorder And Inorder Traversal",
+            "links": [
+                "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf65",
+            "title": "Lowest Common Ancestor of a Binary Search Tree",
+            "links": [
+                "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf64",
+            "title": "Subtree of Another Tree",
+            "links": [
+                "https://leetcode.com/problems/subtree-of-another-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf68",
+            "title": "Count Good Nodes In Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf67",
+            "title": "Binary Tree Right Side View",
+            "links": [
+                "https://leetcode.com/problems/binary-tree-right-side-view/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf66",
+            "title": "Binary Tree Level Order Traversal",
+            "links": [
+                "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf61",
+            "title": "Diameter of Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/diameter-of-binary-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf6d",
+            "title": "Serialize And Deserialize Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf6a",
+            "title": "Kth Smallest Element In a Bst",
+            "links": [
+                "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf6c",
+            "title": "Binary Tree Maximum Path Sum",
+            "links": [
+                "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf69",
+            "title": "Validate Binary Search Tree",
+            "links": [
+                "https://leetcode.com/problems/validate-binary-search-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf63",
+            "title": "Same Tree",
+            "links": [
+                "https://leetcode.com/problems/same-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf5f",
+            "title": "Invert Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/invert-binary-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf60",
+            "title": "Maximum Depth of Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "648038a6a4680459e698bf62",
+            "title": "Balanced Binary Tree",
+            "links": [
+                "https://leetcode.com/problems/balanced-binary-tree/"
+            ],
+            "topicId": [
+                "64803885a4680459e698bf5c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

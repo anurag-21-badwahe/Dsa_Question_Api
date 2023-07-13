@@ -1,0 +1,109 @@
+{
+    "questions": [
+        {
+            "_id": "647a2d09aa1049cda4dac96d",
+            "title": "Longest String with All Prefixes",
+            "links": [
+                "https://bit.ly/3qrU6vb",
+                "https://bit.ly/3n3kedU"
+            ],
+            "topicId": [
+                "647a275aaa1049cda4dac811"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2d09aa1049cda4dac96f",
+            "title": "Power Set (this is very important)",
+            "links": [
+                "https://bit.ly/3fmd28k",
+                "https://practice.geeksforgeeks.org/problems/power-set4302/1#"
+            ],
+            "topicId": [
+                "647a275aaa1049cda4dac811"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2d09aa1049cda4dac96b",
+            "title": "Implement Trie (Prefix Tree)",
+            "links": [
+                "https://bit.ly/33wIn5x",
+                "https://leetcode.com/problems/implement-trie-prefix-tree/"
+            ],
+            "topicId": [
+                "647a275aaa1049cda4dac811"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2d09aa1049cda4dac970",
+            "title": "Maximum XOR of two numbers in an array",
+            "links": [
+                "https://bit.ly/3rjEYis",
+                "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/"
+            ],
+            "topicId": [
+                "647a275aaa1049cda4dac811"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2d09aa1049cda4dac971",
+            "title": "Maximum XOR With an Element From Array",
+            "links": [
+                "https://bit.ly/3KbHhN4",
+                "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/"
+            ],
+            "topicId": [
+                "647a275aaa1049cda4dac811"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2d09aa1049cda4dac96c",
+            "title": "Implement Trie ΓÇô 2 (Prefix Tree)",
+            "links": [
+                "https://bit.ly/3I8Q9l7",
+                "https://bit.ly/3qwT4OL"
+            ],
+            "topicId": [
+                "647a275aaa1049cda4dac811"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2d09aa1049cda4dac96e",
+            "title": "Number of Distinct Substrings in a String",
+            "links": [
+                "https://bit.ly/3zVV1XD",
+                "https://bit.ly/3ocRQW0"
+            ],
+            "topicId": [
+                "647a275aaa1049cda4dac811"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

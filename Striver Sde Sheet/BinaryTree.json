@@ -1,0 +1,421 @@
+{
+    "questions": [
+        {
+            "_id": "647a2bfcaa1049cda4dac921",
+            "title": "Check if Binary Tree is the mirror of itself or not",
+            "links": [
+                "https://bit.ly/3nqSnnQ",
+                "https://practice.geeksforgeeks.org/problems/mirror-tree/1"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2bfcaa1049cda4dac922",
+            "title": "Check for Children Sum Property",
+            "links": [
+                "https://www.codingninjas.com/codestudio/problems/childrensumproperty_790723?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                null
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2bfcaa1049cda4dac91f",
+            "title": "Symmetric Binary Tree",
+            "links": [
+                "https://bit.ly/3GItN9P",
+                "https://leetcode.com/problems/symmetric-tree/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2bfcaa1049cda4dac91c",
+            "title": "Maximum path sum",
+            "links": [
+                "https://bit.ly/3rkQUR4",
+                "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2bfcaa1049cda4dac91e",
+            "title": "Construct Binary Tree from Inorder and Postorder",
+            "links": [
+                "https://bit.ly/3qrzumM",
+                "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2bfcaa1049cda4dac91d",
+            "title": "Construct Binary Tree from inorder and preorder",
+            "links": [
+                "https://bit.ly/3fqOif3",
+                "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2bfcaa1049cda4dac920",
+            "title": "Flatten Binary Tree to LinkedList",
+            "links": [
+                "https://bit.ly/3qA9uWt",
+                "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c14aa1049cda4dac92b",
+            "title": "Zig Zag Traversal of Binary Tree",
+            "links": [
+                "https://bit.ly/3GrS3g7",
+                "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c14aa1049cda4dac929",
+            "title": "LCA in Binary Tree",
+            "links": [
+                "https://bit.ly/3tqcRko",
+                "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c14aa1049cda4dac925",
+            "title": "Level order Traversal / Level order traversal in spiral form",
+            "links": [
+                "https://bit.ly/3zVtSnX",
+                "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c14aa1049cda4dac927",
+            "title": "Diameter of Binary Tree",
+            "links": [
+                "https://bit.ly/3I3O1uD",
+                "https://leetcode.com/problems/diameter-of-binary-tree/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c14aa1049cda4dac926",
+            "title": "Height of a Binary Tree",
+            "links": [
+                "https://bit.ly/3qoOEco",
+                "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c14aa1049cda4dac928",
+            "title": "Check if the Binary tree is height-balanced or not",
+            "links": [
+                "https://bit.ly/3fqsvnA",
+                "https://leetcode.com/problems/balanced-binary-tree/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c14aa1049cda4dac92c",
+            "title": "Boundary Traversal of Binary Tree",
+            "links": [
+                "https://bit.ly/3GxQ6yH",
+                "https://leetcode.com/problems/boundary-of-binary-tree/#"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a2c14aa1049cda4dac92a",
+            "title": "Check if two trees are identical or not",
+            "links": [
+                "https://bit.ly/3GuQYnE",
+                "https://leetcode.com/problems/same-tree/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bed",
+            "title": "Inorder Traversal",
+            "links": [
+                "https://www.youtube.com/watch?v=Z_NEgBgbRVI&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=7",
+                "https://www.codingninjas.com/codestudio/problems/inorder-traversal_3839605?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bf4",
+            "title": "Top View of Binary Tree",
+            "links": [
+                "https://youtu.be/Et9OCDNvJ78",
+                "https://bit.ly/3Gs76WV",
+                "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bf7",
+            "title": "Root to Node Path in Binary Tree",
+            "links": [
+                "https://youtu.be/fmflMqVOC7k",
+                "https://www.codingninjas.com/codestudio/problems/path-in-a-tree_3843990?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                null
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bee",
+            "title": "Preorder Traversal",
+            "links": [
+                "https://youtu.be/RlUu72JrOCQ",
+                "https://www.codingninjas.com/codestudio/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bef",
+            "title": "Postorder Traversal",
+            "links": [
+                "https://youtu.be/COQOU6klsBg",
+                "https://www.codingninjas.com/codestudio/problems/postorder-traversal_3839614?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://leetcode.com/problems/binary-tree-postorder-traversal/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bf3",
+            "title": "Bottom View of Binary Tree",
+            "links": [
+                "https://youtu.be/0FtVY6I4pB8",
+                "https://bit.ly/3trqFLq",
+                "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bf8",
+            "title": "Max width of a Binary Tree",
+            "links": [
+                "https://youtu.be/ZbybYvcVLks",
+                "https://bit.ly/3rm014d",
+                "https://leetcode.com/problems/maximum-width-of-binary-tree/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bf0",
+            "title": "Morris Inorder Traversal",
+            "links": [
+                "https://www.youtube.com/watch?v=80Zug6D1_r4&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=38",
+                "https://www.codingninjas.com/codestudio/problems/inorder-traversal_3839605?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bf1",
+            "title": "Morris Preorder Traversal",
+            "links": [
+                "https://youtu.be/80Zug6D1_r4",
+                "https://www.codingninjas.com/codestudio/problems/preorder-traversal_3838888?topList=striver-sde-sheet-problems&utm_source=striver&utm_medium=website",
+                null
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bf2",
+            "title": "LeftView Of Binary Tree",
+            "links": [
+                "https://www.youtube.com/watch?v=KV4mRzTjlAk&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=25",
+                "https://bit.ly/3GtxyQa",
+                "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bf5",
+            "title": "Preorder inorder postorder in a single traversal",
+            "links": [
+                "https://youtu.be/ySp2epYvgTE",
+                "https://bit.ly/3rlXpTX",
+                null
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "64917a6ac7abcd3b21199bf6",
+            "title": "Vertical order traversal",
+            "links": [
+                "https://youtu.be/q_a6lpbKJdw",
+                "https://bit.ly/3KaM41v",
+                "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/"
+            ],
+            "topicId": [
+                "647a26e1aa1049cda4dac805"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}

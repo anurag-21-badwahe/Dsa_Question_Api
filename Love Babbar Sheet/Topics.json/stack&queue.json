@@ -1,0 +1,574 @@
+{
+    "questions": [
+        {
+            "_id": "647a05764e883b02cff3fc11",
+            "title": "Implement 2 stack in an array",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+                "https://www.codingninjas.com/codestudio/problems/two-stacks_983634?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc27",
+            "title": "Implement a Circular queue",
+            "links": [
+                "https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/",
+                "https://www.codingninjas.com/codestudio/problems/circular-queue_1170058?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc20",
+            "title": "Length of the Longest Valid Substring",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/valid-substring0624/1",
+                "https://www.codingninjas.com/codestudio/problems/valid-substring_1172217?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc22",
+            "title": "Implement Stack using Queue",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+                "https://www.codingninjas.com/codestudio/problems/stack-using-queue_795152?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc16",
+            "title": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/special-stack/1",
+                "https://www.codingninjas.com/codestudio/problems/design-a-stack-that-supports-getmin-in-o-1-time-and-o-1-extra-space_842465?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc25",
+            "title": "Implement Queue using Stack  ",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+                "https://www.codingninjas.com/codestudio/problems/queue-using-two-stacks_1170062?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc26",
+            "title": "Implement \"n\" queue in an array",
+            "links": [
+                "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/",
+                "https://www.codingninjas.com/codestudio/problems/n-queue-using-array_1170053?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc2e",
+            "title": "Distance of nearest cell having 1 in a binary matrix",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0",
+                "https://www.codingninjas.com/codestudio/problems/distance-of-nearest-cell-having-1-in-a-binary-matrix_1169913?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc34",
+            "title": "Next Smaller Element",
+            "links": [
+                "https://www.geeksforgeeks.org/next-smaller-element/",
+                "https://www.codingninjas.com/codestudio/problems/next-smaller-element_1112581?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc29",
+            "title": "Reverse a Queue using recursion",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/queue-reversal/1",
+                "https://www.codingninjas.com/codestudio/problems/reversing-queue_1170046?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc33",
+            "title": "Queue based approach or first non-repeating character in a stream.",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+                "https://www.codingninjas.com/codestudio/problems/first-unique-character-in-a-string_982933?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc19",
+            "title": "Arithmetic Expression evaluation",
+            "links": [
+                "https://www.geeksforgeeks.org/arithmetic-expression-evalution/",
+                "https://www.codingninjas.com/codestudio/problems/arithmetic-expression-evaluation_1170517?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc2a",
+            "title": "Reverse the first “K” elements of a queue",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1",
+                "https://www.codingninjas.com/codestudio/problems/reverse-the-first-k-elements-of-a-queue_1164269?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc2d",
+            "title": "Minimum time required to rot all oranges",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/rotten-oranges/0",
+                "https://www.codingninjas.com/codestudio/problems/rotting-oranges_701655?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc2b",
+            "title": "Interleave the first half of the queue with second half",
+            "links": [
+                "https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/",
+                "https://www.codingninjas.com/codestudio/problems/interleave-the-first-half-of-the-queue-with-the-second-half_1169450?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc13",
+            "title": "Implement \"N\" stacks in an Array",
+            "links": [
+                "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/",
+                "https://www.codingninjas.com/codestudio/problems/n-stacks-in-an-array_1164271?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc0f",
+            "title": " Implement Stack from Scratch",
+            "links": [
+                "https://www.tutorialspoint.com/javaexamples/data_stack.htm",
+                "https://www.codingninjas.com/codestudio/problems/stack-implementation-using-array_3210209?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc14",
+            "title": "Check the expression has valid or Balanced parenthesis or not.",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+                "https://www.codingninjas.com/codestudio/problems/kevin-s-stack-problem_1169465?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc15",
+            "title": "Reverse a String using Stack",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1",
+                ""
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc2f",
+            "title": "First negative integer in every window of size “k”",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0",
+                "https://www.codingninjas.com/codestudio/problems/first-negative-integer-in-every-window-of-size-k_1164406?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc12",
+            "title": "find the middle element of a stack",
+            "links": [
+                "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/",
+                "https://www.codingninjas.com/codestudio/problems/delete-middle-element-from-stack_985246?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc1f",
+            "title": "Largest rectangular Area in Histogram",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
+                "https://www.codingninjas.com/codestudio/problems/largest-rectangle-in-a-histogram_1058184?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc28",
+            "title": "LRU Cache Implementationa",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+                "https://www.codingninjas.com/codestudio/problems/lru-cache-implementation_670276?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc18",
+            "title": "The celebrity Problem",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
+                "https://www.codingninjas.com/codestudio/problems/the-celebrity-problem_982769?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc17",
+            "title": "Find the next Greater element",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
+                "https://www.codingninjas.com/codestudio/problems/next-greater-element_670312?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc1a",
+            "title": "Evaluation of Postfix expression",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0",
+                "https://www.codingninjas.com/codestudio/problems/evaluation-of-postfix-expression_841358?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc1e",
+            "title": "Merge Overlapping Intervals",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/8a644e94faaa94968d8665ba9e0a80d1ae3e0a2d/1",
+                "https://www.codingninjas.com/codestudio/problems/merge-overlapping-intervals_1082151?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc21",
+            "title": "Expression contains redundant bracket or not",
+            "links": [
+                "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/",
+                "https://www.codingninjas.com/codestudio/problems/ninja-and-a-complex-expression_1170758?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc2c",
+            "title": "Find the first circular tour that visits all Petrol Pumps",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/circular-tour/1",
+                "https://www.codingninjas.com/codestudio/problems/find-the-first-circular-tour-that-visits-all-the-petrol-pumps_799923?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc32",
+            "title": "Minimum sum of squares of character counts in a given string after removing “k” characters.",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/game-with-string/0",
+                "https://www.codingninjas.com/codestudio/problems/minimum-sum-of-squares_1170763?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc23",
+            "title": "Implement Stack using Deque",
+            "links": [
+                "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
+                "https://www.codingninjas.com/codestudio/problems/stack-using-deque_1170512?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc1b",
+            "title": "Implement a method to insert an element at its bottom without using any other data structure.",
+            "links": [
+                "https://www.geeksforgeeks.org/program-to-insert-an-element-at-the-bottom-of-a-stack/",
+                "https://www.codingninjas.com/codestudio/problems/insert-an-element-at-its-bottom-in-a-given-stack_1171166?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc10",
+            "title": " Implement Queue from Scratch",
+            "links": [
+                "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/",
+                "https://www.codingninjas.com/codestudio/problems/queue-using-array-or-singly-linked-list_2099908?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc24",
+            "title": "Stack Permutations (Check if an array is stack permutation of other)",
+            "links": [
+                "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/",
+                "https://www.codingninjas.com/codestudio/problems/valid-stack-permutation_1170061?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc1d",
+            "title": "Sort a Stack using recursion",
+            "links": [
+                "https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
+                "https://www.codingninjas.com/codestudio/problems/sort-a-stack_985275?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc31",
+            "title": "Sum of minimum and maximum elements of all subarrays of size “k”.",
+            "links": [
+                "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/",
+                "https://www.codingninjas.com/codestudio/problems/sum-of-minimum-and-maximum-elements-of-all-subarrays-of-size-k_1171047?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc30",
+            "title": "Check if all levels of two trees are anagrams or not.",
+            "links": [
+                "https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/",
+                "https://www.codingninjas.com/codestudio/problems/check-if-all-levels-of-two-trees-are-anagrams-of-each-other-not_1214546?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        },
+        {
+            "_id": "647a05764e883b02cff3fc1c",
+            "title": "Reverse a stack using recursion",
+            "links": [
+                "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/",
+                "https://www.codingninjas.com/codestudio/problems/reverse-stack-using-recursion_631875?topList=love-babbar-dsa-sheet-problems"
+            ],
+            "topicId": [
+                "647a055a4e883b02cff3fc0c"
+            ],
+            "__v": 0,
+            "isCompleted": false,
+            "revisited": false,
+            "bookmarked": false
+        }
+    ]
+}
